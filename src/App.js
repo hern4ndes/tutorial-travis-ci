@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Meu exemplo reactjs com travis
+          Meu exemplo reactjs com travis v1
         </p>
         <a
           className="App-link"
