@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutorial-travis-ci/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tutorial-travis-ci/static/js/main.2c6df3f5.chunk.js",
+    "main.js.map": "/tutorial-travis-ci/static/js/main.2c6df3f5.chunk.js.map",
+    "runtime-main.js": "/tutorial-travis-ci/static/js/runtime-main.1aa5b9e3.js",
+    "runtime-main.js.map": "/tutorial-travis-ci/static/js/runtime-main.1aa5b9e3.js.map",
+    "static/js/2.c327a5f8.chunk.js": "/tutorial-travis-ci/static/js/2.c327a5f8.chunk.js",
+    "static/js/2.c327a5f8.chunk.js.map": "/tutorial-travis-ci/static/js/2.c327a5f8.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/tutorial-travis-ci/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/tutorial-travis-ci/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/tutorial-travis-ci/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tutorial-travis-ci/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c327a5f8.chunk.js.LICENSE.txt": "/tutorial-travis-ci/static/js/2.c327a5f8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tutorial-travis-ci/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa5b9e3.js",
+    "static/js/2.c327a5f8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2c6df3f5.chunk.js"
+  ]
+}
